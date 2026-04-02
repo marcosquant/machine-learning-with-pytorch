@@ -1,6 +1,6 @@
 # Machine Learning with PyTorch — Udacity
 
-Repositório com os projetos desenvolvidos durante o curso **Intro to Machine Learning with PyTorch** da [Udacity](https://www.udacity.com/).
+Repositório com os projetos desenvolvidos durante o nanodegree **[Intro to Machine Learning with PyTorch](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)** da Udacity.
 
 ## Projetos
 
@@ -35,4 +35,4 @@ Repositório com os projetos desenvolvidos durante o curso **Intro to Machine Le
 
 ## Autor
 
-**Marcos Roberto Souza** — curso Intro to Machine Learning with PyTorch, Udacity.
+**Marcos Roberto Souza** — nanodegree [Intro to Machine Learning with PyTorch](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229), Udacity.
